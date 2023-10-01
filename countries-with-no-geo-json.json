@@ -1511,20 +1511,6 @@
 		"phoneLength": 10
 	},
 	{
-		"dialCode": "+972",
-		"isoCode": "IL",
-		"flag": "https://cdn.kcak11.com/CountryFlags/countries/il.svg",
-		"nameEn": "Israel",
-		"nameAr": "إسرائيل",
-		"emoji": "🇮🇱",
-		"secondFlag": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IL.svg",
-		"region": "Asia",
-		"timezones": {
-			"Asia/Jerusalem": "+03:00"
-		},
-		"phoneLength": 9
-	},
-	{
 		"dialCode": "+39",
 		"isoCode": "IT",
 		"flag": "https://cdn.kcak11.com/CountryFlags/countries/it.svg",
