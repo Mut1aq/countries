@@ -105,7 +105,7 @@
 		"nameAr": "أنتاركتيكا",
 		"emoji": "🇦🇶",
 		"secondFlag": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AQ.svg",
-		"region": "",
+		"region": "continent",
 		"timezones": {
 			"Antarctica/Casey": "+11:00",
 			"Antarctica/Davis": "+07:00",
@@ -157,7 +157,7 @@
 			"America/Argentina/Tucuman": "-03:00",
 			"America/Argentina/Ushuaia": "-03:00"
 		},
-		"phoneLength": [6, 7, 8]
+		"phoneLength": 8
 	},
 	{
 		"dialCode": "+374",
@@ -224,7 +224,7 @@
 		"timezones": {
 			"Europe/Vienna": "+02:00"
 		},
-		"phoneLength": [10, 11]
+		"phoneLength": 11
 	},
 	{
 		"dialCode": "+994",
@@ -1511,20 +1511,6 @@
 		"phoneLength": 10
 	},
 	{
-		"dialCode": "+972",
-		"isoCode": "IL",
-		"flag": "https://cdn.kcak11.com/CountryFlags/countries/il.svg",
-		"nameEn": "Israel",
-		"nameAr": "إسرائيل",
-		"emoji": "🇮🇱",
-		"secondFlag": "https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IL.svg",
-		"region": "Asia",
-		"timezones": {
-			"Asia/Jerusalem": "+03:00"
-		},
-		"phoneLength": 9
-	},
-	{
 		"dialCode": "+39",
 		"isoCode": "IT",
 		"flag": "https://cdn.kcak11.com/CountryFlags/countries/it.svg",
@@ -1592,7 +1578,7 @@
 		"timezones": {
 			"Asia/Amman": "+03:00"
 		},
-		"phoneLength": [8, 9, 10]
+		"phoneLength": 10
 	},
 	{
 		"dialCode": "+77",
@@ -1656,7 +1642,7 @@
 		"timezones": {
 			"Asia/Pyongyang": "+09:00"
 		},
-		"phoneLength": [4, 6, 7, 13]
+		"phoneLength": 13
 	},
 	{
 		"dialCode": "+82",
@@ -1670,7 +1656,7 @@
 		"timezones": {
 			"Asia/Seoul": "+09:00"
 		},
-		"phoneLength": [7, 8]
+		"phoneLength": 8
 	},
 	{
 		"dialCode": "+965",
@@ -1712,7 +1698,7 @@
 		"timezones": {
 			"Asia/Vientiane": "+07:00"
 		},
-		"phoneLength": [8, 9]
+		"phoneLength": 9
 	},
 	{
 		"dialCode": "+371",
@@ -1740,7 +1726,7 @@
 		"timezones": {
 			"Asia/Beirut": "+03:00"
 		},
-		"phoneLength": [7, 8]
+		"phoneLength": 8
 	},
 	{
 		"dialCode": "+266",
@@ -1768,7 +1754,7 @@
 		"timezones": {
 			"Africa/Monrovia": "+00:00"
 		},
-		"phoneLength": [8, 9]
+		"phoneLength": 9
 	},
 	{
 		"dialCode": "+218",
@@ -1880,7 +1866,7 @@
 		"timezones": {
 			"Africa/Blantyre": "+02:00"
 		},
-		"phoneLength": [7, 8, 9]
+		"phoneLength": 9
 	},
 	{
 		"dialCode": "+60",
@@ -2249,7 +2235,7 @@
 			"Pacific/Auckland": "+12:00",
 			"Pacific/Chatham": "+12:45"
 		},
-		"phoneLength": [8, 9]
+		"phoneLength": 9
 	},
 	{
 		"dialCode": "+505",
@@ -2757,7 +2743,7 @@
 		"timezones": {
 			"Pacific/Apia": "+13:00"
 		},
-		"phoneLength": [5, 6, 7]
+		"phoneLength": 7
 	},
 	{
 		"dialCode": "+378",
@@ -2939,7 +2925,7 @@
 		"timezones": {
 			"Africa/Mogadishu": "+03:00"
 		},
-		"phoneLength": [8, 9]
+		"phoneLength": 9
 	},
 	{
 		"dialCode": "+27",
@@ -3039,7 +3025,7 @@
 		"timezones": {
 			"America/Paramaribo": "-03:00"
 		},
-		"phoneLength": [6, 7]
+		"phoneLength": 7
 	},
 	{
 		"dialCode": "+47",
